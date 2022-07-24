@@ -204,5 +204,5 @@ function App(props) {
 }
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyCP2bxmAzmK5Z-59jr4PUTTjUQx5lmQA6M"
+  apiKey: ""
 })(App)
